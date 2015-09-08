@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=HBase Virtual Shell
+Comment=Click here to run HBase Virtual Shell 
+Exec=java -jar /home/sougata/Thesis/HBaseNotaQL/target/HBaseNotaQL-1.0-SNAPSHOT.jar
+Icon=/home/sougata/Thesis/icon.svg
+Terminal=true
+Categories=Application;
