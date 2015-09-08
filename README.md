@@ -17,3 +17,9 @@ NotaQL Is Not a Query Language! It’s for Data Transformation on Wide-Column St
 In order to understand the query structure, take a look at the NotaQL grammar in notaql/antlr4/NotaQL.g4. The grammar is written by using Antlr 4.5. 
 The NotaQL Query examples can be found in [Wiki](https://github.com/sougatabhattacharjee/Thesis-HBase/wiki).
 The Query Examples with results explained in more details [Here](https://github.com/sougatabhattacharjee/Thesis-HBase/wiki/Query-with-NotaQL).
+
+## HBase View example in Shell
+![alt tag](https://github.com/sougatabhattacharjee/Thesis-HBase/blob/master/app/vshell.png)
+
+
+
